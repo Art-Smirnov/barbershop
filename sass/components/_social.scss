@@ -16,6 +16,7 @@
   letter-spacing: 0.2em;
   color: inherit;
 }
+
 .social::before {
   @extend %decor;
 }
